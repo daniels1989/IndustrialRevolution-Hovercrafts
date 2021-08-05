@@ -1,0 +1,14 @@
+{
+  "name": "IndustrialRevolution-Hovercrafts",
+  "factorio_version": "1.1",
+  "version": "1.0.0",
+  "title": "Industrial Revolution 2 & Hovercrafts Compatibility",
+  "description": "Adjusts Hovercrafts to work better with Industrial Revolution 2 (and Larger Lamps).",
+  "author": "daniels1989",
+  "dependencies": [
+  	"base",
+  	"IndustrialRevolution >= 2.0.0",
+    "Hovercrafts >= 1.0.0",
+    "?DeadlockLargerLamp >= 1.0.0"
+  ]
+}
